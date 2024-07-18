@@ -24,8 +24,8 @@
 
 ## PROJECT URLs
 
-    Github: https://github.com/owentwin1/GoCanvas-React-Movie-App/tree/main
-    URL: https://owentwin1.github.io/GoCanvas-React-Movie-App/
+    Github: https://github.com/SamFSD/react-movie-app
+    URL: https://samFSD.github.io/react-movie-app/
 
 ## PROJECT SETUP
 
