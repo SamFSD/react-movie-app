@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SamFSD/react-movie-app/static/css/main.3bfcb56a.css",
-    "main.js": "/SamFSD/react-movie-app/static/js/main.27c9f06e.js",
+    "main.js": "/SamFSD/react-movie-app/static/js/main.81ac84cf.js",
     "static/media/boxicons.svg": "/SamFSD/react-movie-app/static/media/boxicons.045b05bf2dc119267a90.svg",
     "static/media/footer-bg.jpg": "/SamFSD/react-movie-app/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
     "static/media/boxicons.eot": "/SamFSD/react-movie-app/static/media/boxicons.092b78589f3f53e60030.eot",
@@ -11,10 +11,10 @@
     "static/media/tmovie.png": "/SamFSD/react-movie-app/static/media/tmovie.67797e942e59deb68592.png",
     "index.html": "/SamFSD/react-movie-app/index.html",
     "main.3bfcb56a.css.map": "/SamFSD/react-movie-app/static/css/main.3bfcb56a.css.map",
-    "main.27c9f06e.js.map": "/SamFSD/react-movie-app/static/js/main.27c9f06e.js.map"
+    "main.81ac84cf.js.map": "/SamFSD/react-movie-app/static/js/main.81ac84cf.js.map"
   },
   "entrypoints": [
     "static/css/main.3bfcb56a.css",
-    "static/js/main.27c9f06e.js"
+    "static/js/main.81ac84cf.js"
   ]
 }
